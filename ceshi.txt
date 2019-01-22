@@ -1,3 +1,4 @@
 ﻿数量的会计法数量的会计法说了房价爱上了房间啦刻录机的 
 Git is a distributed GROUP BY version control system.=1234+123
 Git is free software. +123
+Git has a mutable index called stage.
